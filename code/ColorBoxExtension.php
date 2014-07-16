@@ -2,10 +2,6 @@
 
 class ColorBoxExtension extends Extension{
 	
-	function extraStatics(){
-		return array();
-	}
-	
 	function contentcontrollerInit(){
 		
 		Requirements::themedCSS("colorbox");
