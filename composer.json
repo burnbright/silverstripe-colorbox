@@ -1,0 +1,21 @@
+{
+	"name" : "burnbright/silverstripe-colorbox",
+	"description" : "Colorbox is a lightweight customizable lightbox plugin for jQuery.",
+	"license" : "BSD-2-Clause",
+	"type" : "silverstripe-module",
+	"keywords" : ["silverstripe","colorbox"],
+	"authors" : [
+		{
+			"name" : "Jeremy Shipman",
+			"email" : "jeremy@burnbright.net",
+			"homepage" : "https://github.com/jedateach",
+			"role" : "Developer"
+		}
+	],
+	"require" : {
+		"silverstripe/framework": "~3.1"
+	},
+	"extra" : {
+		"installer-name": "colorbox"
+    }
+}
